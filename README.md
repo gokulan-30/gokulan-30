@@ -17,7 +17,7 @@
 
 - 📫 Connect me **gokulsaravanan308@gmail.com**
 
-- 🌐 Stay on **https://gokulans.framer.website/**
+- 🌐 Stay on **https://gokulans.github.io/Portfolio/**
 
 - ⚡ Fun fact **I enjoy learning new technologies step by step and turning ideas into code**
 
