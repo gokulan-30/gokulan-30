@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I’m Gokulan S</h1>
-<h3 align="center">Pre-Final Year Student ● Aspiring EC Engineer ● C ● Embedded C ● Java ● Learning AUTOSAR ● Automotive Networking ● Passionate about Industrial Automation ● Teamwork and Co-ordinator ● Member of IETE</h3>
+<h3 align="center">EC Undergrad ● Java ● Embedded Systems & C ● AUTOSAR ● Automotive Networking ● Passionate about Industrial Automation ● Teamwork and Co-ordinator </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulan-30&label=Profile%20views&color=0e75b6&style=flat" alt="gokulan-30" /> </p>
 
