@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Improving my skills in programming,problem solving,and SDE Fundamentals**
 
-- 🌱 I’m currently learning **Spring Boot,Selenium**
+- 🌱 I’m currently learning **Industrail Automation & AUTOSAR**
 
 - 👯 I’m looking to collaborate on **Friendly software projects,open-source contributions**
 
